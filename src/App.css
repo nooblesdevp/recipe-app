@@ -1,10 +1,10 @@
 .App{
   min-height: 100vh;
-  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .search-form{
-  min-height: 10vh;
+  min-height: 12vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,11 +14,12 @@
   width: 50%;
   border: none;
   padding: 10px;
+  
 
 }
 
 .search-btn{
-  background:#84fab0;
+  background:#2a2d94;
   border: none;
   padding: 10px 20px;
   color: #fff;
